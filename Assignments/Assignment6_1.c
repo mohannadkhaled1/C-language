@@ -30,7 +30,7 @@ void printArray(int arr[], int size)
 
 int main()
 {
-	int arr[Size] = {9,6,7,3,15};
+    int arr[Size] = {9,6,7,3,15};
 	
     bubbleSort(arr, Size);
 	
