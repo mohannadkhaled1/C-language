@@ -6,7 +6,7 @@ and print them in reversed order */
 int main()
 {
 
-/* First Method */
+	/* First Method */
 
 	int x,y,z;
 
